@@ -1,0 +1,80 @@
+/**
+ * ROYAL RAGE THEME PROTOCOL
+ */
+:root {
+  --ifm-color-primary: #6a0dad; /* Deep Purple */
+  --ifm-color-primary-dark: #580b91;
+  --ifm-color-primary-darker: #530a89;
+  --ifm-color-primary-darkest: #440871;
+  --ifm-color-primary-light: #841cd1;
+  --ifm-color-primary-lighter: #8d26d6;
+  --ifm-color-primary-lightest: #a54ce2;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #FFD700; /* Gold */
+  --ifm-color-primary-dark: #e6c200;
+  --ifm-color-primary-darker: #dcb900;
+  --ifm-color-primary-darkest: #bfa100;
+  --ifm-color-primary-light: #ffe033;
+  --ifm-color-primary-lighter: #ffe44d;
+  --ifm-color-primary-lightest: #ffed80;
+  --ifm-background-color: #1a1a1a;
+}
+
+/* --- THE TOP COMMAND BAR (HUD) --- */
+/* This is the black bar at the very top */
+.navbar {
+  background-color: #000000;
+  border-bottom: 3px solid #DC143C; /* Scarlet Border */
+  height: 90px; /* Taller to fit the massive text */
+  padding: 0 2rem;
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.8);
+}
+
+/* The "ROYAL RAGE" Title in the Top Bar */
+.navbar__title {
+  font-size: 2.5rem; /* Massive */
+  color: #FFD700 !important; /* Gold */
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 0px 0px 10px rgba(255, 215, 0, 0.3);
+}
+
+/* Navigation Links (Codex, Blog) */
+.navbar__item {
+  color: #f0f0f0 !important;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-left: 1rem;
+}
+.navbar__item:hover {
+    color: #FFD700 !important;
+}
+
+/* Hide the Logo Image (Text is enough) */
+.navbar__logo {
+    display: none;
+}
+
+/* --- THE HERO IMAGE (Flag Only) --- */
+/* This sits BELOW the Top Bar */
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('/img/royal-banner.png');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  
+  /* Height controls how much of the flag you see */
+  min-height: 600px; 
+  
+  border-bottom: 4px solid #FFD700; /* Gold Line at bottom of image */
+}
+
+/* Shrink the features padding */
+.features_src-components-HomepageFeatures-styles-module {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+}

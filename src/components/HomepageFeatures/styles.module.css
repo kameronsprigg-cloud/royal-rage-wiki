@@ -1,0 +1,73 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+/* Container Spacing */
+.features {
+  display: flex;
+  align-items: center;
+  padding: 4rem 0;
+  width: 100%;
+  background-color: #0a0a0a;
+}
+
+/* --- THE FIX: GRID DISCIPLINE --- */
+
+/* 1. We reset the column to be invisible structure only */
+.features :global(.col--4) {
+  padding: 1rem; /* This creates the gap between cards naturally */
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+/* 2. We apply the armor to the inner class */
+.battleCard {
+  background: linear-gradient(145deg, #1a1a1a, #250536);
+  border: 1px solid #FFD700; /* Gold Border */
+  border-radius: 8px;
+  padding: 2rem;
+  height: 100%; /* Ensures all cards are same height */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;        /* These 3 lines ensure content */
+  flex-direction: column; /* aligns nicely if text lengths vary */
+  justify-content: flex-start;
+}
+
+/* Hover Effect targets the Battle Card */
+.battleCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 15px rgba(106, 13, 173, 0.6);
+  border-color: #DC143C;
+}
+
+/* Keep the rest of your Icon/Title styles the same... */
+.featureIcon {
+  font-size: 4rem;
+  line-height: 1;
+  display: block;
+  margin-bottom: 1rem;
+  filter: drop-shadow(0 0 5px rgba(255, 215, 0, 0.5));
+}
+
+.featureTitle {
+  color: #FFD700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 800;
+  margin-bottom: 1rem;
+}
+
+.featureText {
+  color: #e0e0e0;
+  font-size: 1rem;
+  line-height: 1.5;
+}
