@@ -1,83 +1,82 @@
 ---
 sidebar_position: 3
-title: Operating Protocols (Puffs & Tech)
+title: Operating Protocols (Puffs & Conduct)
 ---
 
 # Operating Protocols
 
 > **Principle:** Discipline beats motivation. Motivation is why you start; discipline is why you win. We do not click buttons randomly. We execute protocols.
 
-## 1. The "ABCs" (Always Be Puffing)
+## 1. The Ministry (Puffs)
+
 The Secretary Titles (Puffs) are free stat multipliers. Ignoring them is negligent.
 
 ### The Mechanics
-* **How to Access:** Tap Profile (Top Left) -> Tap Server Number (e.g., #1981) -> "Capitol" -> Select Role.
+
+* **How to Access:** Tap Profile (Top Left) $\rightarrow$ Tap Server Number (e.g., #1981) $\rightarrow$ "Capitol" $\rightarrow$ Select Role.
 * **The Golden Rule:** Puffs apply at the **START** of a task.
     * If you start a 10-day research and *then* get the buff, it does nothing.
     * You must get the buff **BEFORE** you click the button.
 
-### The Puff Priority Matrix
 
-| Role | Priority | When to Use | Doctrine |
+
+### Standard Operating Puffs
+
+| Role | Priority | When to Use | The "Royal Rage" Math |
 | :--- | :--- | :--- | :--- |
-| **Secretary of Development** | **Critical** | **Building Construction** | **+50% Construction Speed.** Mandatory for any build over 4 hours. |
-| **Secretary of Science** | **Critical** | **Research** | **+50% Research Speed.** Never start a major tech research without this. |
-| **Secretary of Defense** | **High** | **Troop Training** | Increases capacity. Apply this right before your Barracks finish, so you can start the *next* batch with the buff immediately. |
-| **Secretary of Interior** | **High** | **Resource Collection** | **+100% Production.** See the "Double Dip" tactic below. |
-| **Secretary of Strategy** | Low | Combat / Healing | Increases Hospital Capacity. If you need this, you should probably just shield or teleport away. |
-| **Vice President** | N/A | Vanity | Don't clog the queue. Leave this for R4/R5 administration. |
+| **Secretary of Development** | **Critical** | Building | **+50% Construction Speed.** Mandatory for any build over 4 hours. |
+| **Secretary of Science** | **Critical** | Research | **+50% Research Speed.** Never start a major tech research without this. |
+| **Secretary of Defense** | **High** | Troop Training | **+25% Capacity / +25% Speed.** <br/> *Note:* The speed and capacity cancel out time-wise. You train 25% more troops in the same amount of time. Use this for overnight queues. |
+| **Secretary of Interior** | **High** | Collecting | **+100% Production.** Used for the "Double Dip" (see below). |
+| **Secretary of Strategy** | **Niche** | Healing | Use only during **Desert Storm**. The healing speed boost is critical there. Otherwise, ignore. |
+
+:::info The "Victor's Spoils" (Wartime Buffs)
+If our server wins the Capitol War, the buffs get supercharged for the week:
+
+* **Dev & Sci:** Boost increases to **60%**.
+* **Interior:** Boost increases to **150%**.
+* **New Role - Administrative Commander:** Gives the buffs of both Dev and Sci simultaneously.
+* **New Role - Military Commander:** +5% March Speed, +5% PVP Death Rate. (Purely for war).
+:::
 
 ---
 
 ## 2. The "Interior Double Dip"
-This is the single easiest way to double your passive income, yet most players miss it.
+
+This is the single easiest way to double your passive income.
 
 **The Protocol:**
+
 1.  **Wait:** Do not collect your resource tiles (Mines, Farms) when you wake up. Let them sit full.
 2.  **Puff:** Request **Secretary of Interior**.
 3.  **Collect:** Once the title is active **THEN** tap to collect all resources.
 
+
+
 :::tip The Result
-You instantly get **200%** of the resources your base produced while you were sleeping. It is literally free money.
+You instantly get **200%** (or **250%** if we won the war) of the resources your base produced while you were sleeping. It is literally free money.
 :::
 
 ---
 
-## 3. Research Doctrine (The Brains)
+## 3. The Code of Conduct (ROEs)
 
-> **Philosophy:** "Red Dots are Stop Signs."
+### Identity
+**"We are the adults in the room."**
+We do not engage in toxicity. We play with class. If someone drops a Golden Egg in World Chat, say "Thank you." Keep chat PG-ish.
 
-Just because the game puts a red dot on a tech tree does **not** mean you should click it. Resources (especially Valor Badges) are finite.
+### Raiding Protocol (Trucks & Tasks)
+* **The Target:** We raid **Enemy Servers only**.
+* **The Ban:** We **NEVER** raid our own server.
+    * We do not cannibalize our allies.
+    * We strictly do not raid our own Alliance members.
+* **The Process:** Spend 5 minutes scanning an enemy server. Find the loot. Take it. Share leftovers in Alliance Chat.
 
-### The Valor Badge Bottleneck
-Gold and Food are easy to get. **Valor Badges** are the real currency of the endgame. If you waste them on useless tech early on, you will hit a wall that takes months to climb over.
+### Retaliation
+* **Self-Defense:** If you are hit, you may hit back (1-for-1).
+* **Escalation:** If the aggressor is *not* from a Top 10 alliance, burn them. If they *are*, let Leadership handle the diplomacy.
 
-### The Tech Priority Tree
-
-#### S-Tier: The Holy Grail
-* **Special Forces:** This is the only path to **T10 Troops**. Every single Valor Badge you own should theoretically be saved for this tree.
-* **Units:** Makes your troops stronger. Essential stats.
-* **Heroes:** "Competent Command." Improves hero stats. Essential.
-
-#### A-Tier: Development & VS Research
-* **Development** Get access to extra barracks? Yes please! Research and construction buffs? Sure! Generally a good path to research when you're not on VS day. 
-* **VS Research** A decent location to drop your Valor badges. It makes you better at VS for the rest of the game. Also, Special Forces research gets *expensive* fast. If you have 5k valor, but no money and still have boxes to hit, go for this! 
-
-:::danger QUICK PIT STOP HERE
-**FOR VS, YOU NEED TO HAVE ALL 9 BOXES UNLOCKED** 
-Until you have all 9 boxes unlocked, this is your first priority for research. Even above special forces. More Boxes = More Valor Badges = More Special Forces research. 
-:::
-
-#### B-Tier: Squads
-* **Squads** Your research in theses trees is good. Make sure you max your squad 1 tree first before moving on. You get nice combat buffs for all world combat here.
-
-#### C-Tier: Economy
-* **Economy** This research is kinda meh. It costs a ton, so it runs into the same problems as upgrading your base economy buildings. It will take forever for these to pay themselves off. That said, if you're going to do it then it *will* eventually be worth it. But you'll be sacrificing some early power for a long time. 
-
-#### F-Tier: The Traps (DO NOT RESEARCH)
-* **Trucks** The rewards from trucks are not really worth it. You can spend valor here if there's nowhere else to go, but otherwise ignore this path. 
-
-:::danger STRICT ORDER
-**Prioritize "Special Forces" above all else.**
-If you have to choose between upgrading a "City Defense" node to clear a red dot or saving badges for a future "Special Forces" node... **SAVE THE BADGES.**
-:::
+### Resource Tiles (Mining)
+* **Standard:** Do not hit tiles occupied by others.
+* **Capitol War Exception:** "The Mud" (Contaminated Land).
+    * During Capitol War, attacking tiles in the central "Mud" area is encouraged for Honor Points. No permission needed.

@@ -69,21 +69,23 @@ During the war, the Ministrial titles change function. We are not farming; we ar
 
 1.  **Secretary of Strategy:**
     * **Peace Time:** Useless.
-    * **War Time:** **CRITICAL.** It prevents troop loss. If you are taking hits or swarming a whale, you need this to save your hospital bills.
+    * **Desert Storm** **USEFUL!** It let's you make 25% better use of your healing speed ups. This can let you stay in the fight a lot longer.
 2.  **Secretary of Defense:**
     * **Peace Time:** Training speed.
     * **War Time:** **Lethality.** Use this to pump out reinforcements instantly.
 3.  **The Server Buff (The Winner's Spoils):**
     * If we win the VS Duel, our server gets buffs (Gathering speed, Research speed).
-    * **The Strategy:** If we are winning the war on Saturday, **HOLD** your major Sunday collections until the Server Buff activates at reset.
+    * **The Strategy:** If we are winning the war on Saturday, **HOLD** your major Sunday collections until the Server Buff activates.
 
-### "Red Dots are Stop Signs"
+#### "Red Dots are Stop Signs"
+
 * **Radar:** Do not clear your Radar on Sunday. Save the tasks for Monday (Day 1).
 * **Stamina:** Do not burn stamina on Sunday night. You need a full bar for Monday reset.
 * **Hero Recruitment** Do not recruit heroes from the tavern just because there's a little green dude there.
 * **Hero XP** Is it day 4 of VS? No? Don't use a large amount of XP. Max 1 or 2 levels to hit arms race boxes.
 * **Construction Presents** These get annoying, but hold off on popping those presents until Construction VS day! 
-:::Tip **Use the Settings to your advantage!**
+
+:::tip **Use the Settings to your advantage!**
 There's a setting in your profile that let's you enable a warning for popping a construction present. Use it!
 :::
 * **Hero Tier Up** That green arrow in the hero page is tempting, innit? Don't do it. Wait for Hero day. 
