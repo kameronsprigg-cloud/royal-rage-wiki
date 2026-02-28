@@ -66,6 +66,8 @@ If it is Tuesday (Building Day) but the Arms Race is "Drone Boost"... **DO NOT B
 * If you purchase daily packs, time them for the city building, tech, and sometimes troop arms race themes. Why? Leveling up a hero a single time is enough to get all 3 boxes. Stamina is cheap currency. Construction and research speed ups are extremely valuable.
 
 * Purchasing a single 'value coin pack' is enough to get 30,000 arms race points. Timing your spending also contributes to effective growth.
+:::
+
 ---
 
 ## 4. Weekend War & Capitol Buffs
