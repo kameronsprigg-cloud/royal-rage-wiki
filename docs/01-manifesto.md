@@ -1,5 +1,5 @@
 ---
-slug: /
+slug: /doctrine
 sidebar_position: 1
 title: The Royal Standard
 ---

@@ -8,13 +8,13 @@ const History = [
     date: 'NOV 28, 2025', 
     title: 'Genesis: Server 1981',
     description: 'The Server Launch. The founding of HOTP. We were young, reckless, and unrefined. There was no "Doctrine," only the raw will to survive the chaos.',
-    link: '#', 
+    link: '/blog/alliance-founded', 
   },
   {
     date: 'JAN 29, 2026',
     title: 'The Rebirth: Royal Rage',
     description: 'The day HOTP died. We purged the toxic, rebranded to "Royal Rage" (royl), and instituted the Doctrine. We stopped playing like casuals and started operating like a syndicate. The "Adults in the Room" era begins.',
-    link: '#', 
+    link: '/blog/royal-rage-rebirth', 
   },
 ];
 

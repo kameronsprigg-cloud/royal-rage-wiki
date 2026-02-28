@@ -29,11 +29,11 @@ This is your Bible. Memorize it.
 
 | Day | Theme | The "Hoard" (What to Save) | The Protocol |
 | :--- | :--- | :--- | :--- |
-| **Monday** | **Radar & Stamina** | Stamina Items, Radar Tasks | Save Radar tasks from Sunday. Burn Stamina on Zombies. |
-| **Tuesday** | **Base Building** | Building Speed-ups | **Secretary of Development** Sync with "City Building" Arms Race. |
-| **Wednesday** | **Tech Research** | Research Speed-ups, Valor Badges | **Secretary of Science** is mandatory here. Sync with "Tech Research" Arms Race. |
+| **Monday** | **Radar & Stamina** | Stamina Items, Radar Tasks, Drone Parts, Drone Skill Chip Boxes, | Save Radar tasks from Sunday. Burn Stamina on Zombies. |
+| **Tuesday** | **Base Building** | Building Speed-ups, Presents, Survivor Tickets, Starred UR Tasks | **Secretary of Development** Sync with "City Building" Arms Race. |
+| **Wednesday** | **Tech Research** | Research Speed-ups, Valor Badges, Drone Components, Radar | **Secretary of Science** is mandatory here. Sync with "Tech Research" Arms Race. |
 | **Thursday** | **Hero Advancement** | EXP, Shards, Skill Medals | **STOP.** Do not upgrade heroes during the week. Unleash them today. |
-| **Friday** | **Total Mobilization** | Troops | Train troops, upgrade gear, use what you need, as all speed-ups count. This is the prep for War. |
+| **Friday** | **Total Mobilization** | Troops, Radar, Starred UR Tasks | Train troops, upgrade gear, use what you need, as all speed-ups count. This is the prep for War. |
 | **Saturday** | **Enemy Buster (War)** | Teleporters, Shields, Troops | **Kill Day.** Teleport to the enemy server. Burn their hives. |
 
 ---
@@ -52,13 +52,20 @@ Timings: Arms Race will ALWAYS line up with the main VS theme at the following t
 * **City Building:** Drop your building speed-ups here.
 * **Tech Research:** Drop your research speed-ups here.
 * **Unit Progression:** Train troops here.
-* **Drone Boost:** Consume drone parts here.
-* **Hero Advancement:** Use hero EXP/shards here.
+* **Drone Boost:** Consume drone parts here on Day 1, otherwise stamina.
+* **Hero Advancement:** Use hero EXP.
 
 :::warning Synchronization
 If it is Tuesday (Building Day) but the Arms Race is "Drone Boost"... **DO NOT BUILD.** Wait for the clock to turn.
 :::
 
+:::tip Neat Trick 
+* Notice how every Arms Race lets you score points by purchasing diamonds at 30 points per diamond? 
+* We can use this to give a huge advantage, maxing out skill experience at no in-game cost. 
+
+* If you purchase daily packs, time them for the city building, tech, and sometimes troop arms race themes. Why? Leveling up a hero a single time is enough to get all 3 boxes. Stamina is cheap currency. Construction and research speed ups are extremely valuable.
+
+* Purchasing a single 'value coin pack' is enough to get 30,000 arms race points. Timing your spending also contributes to effective growth.
 ---
 
 ## 4. Weekend War & Capitol Buffs
@@ -88,7 +95,7 @@ During the war, the Ministrial titles change function. We are not farming; we ar
 :::tip **Use the Settings to your advantage!**
 There's a setting in your profile that let's you enable a warning for popping a construction present. Use it!
 :::
-* **Hero Tier Up** That green arrow in the hero page is tempting, innit? Don't do it. Wait for Hero day. 
+* **Hero Tier Up** That green arrow in the hero page is tempting, 'innit? Don't do it. Wait for Hero day. 
 
 ---
 

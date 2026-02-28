@@ -5,7 +5,7 @@ title: Equipment (The Forge)
 
 # Equipment Strategy: The Forge
 
-> **Philosophy:** "A Level 150 hero in plastic armor is just a target. We forge Gold, or we forge nothing."
+> **Principle:** An amateur with incredible equipment is pretty good. A MASTER with state-of-the-art equipment is Leonardo DaVinci painting the Mona Lisa. Except it's zombies. And your paint is blood. 
 
 ## 1. The Golden Rule
 

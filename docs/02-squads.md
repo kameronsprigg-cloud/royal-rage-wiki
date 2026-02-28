@@ -1,11 +1,11 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 title: Combat Doctrine (Squads)
 ---
 
 # Combat Doctrine: Squads & Heroes
 
-> **Principle:** An amateur with incredible equipment is pretty good. A MASTER with state-of-the-art equipment is Leonardo DaVinci painting the Mona Lisa. Except it's zombies. And your paint is blood. 
+> **Principle:** Our heroes are monsters. We don't send rookies into battle with poor tactics.
 
 ## 1. Squad Positioning
 Positioning doesn't increase your raw power number, but it **drastically** improves performance. 
@@ -14,12 +14,12 @@ Positioning doesn't increase your raw power number, but it **drastically** impro
 | :--- | :--- | :--- | :--- |
 | **Front Row** | **The Meat Shields** | Murphy, Williams, Carlie | Big, beefy, bulky boys. If they have a shield icon, they go here. |
 | **Back Middle** | **The Ace** | Kim, Tesla, Schulyer| Your biggest hitter. **KEEP THEM ALIVE.** They stay protected in the center. |
-| **Back Sides** | **Support / DPS** | Marshall, DVA, Mason | Supports and up-and-coming damage dealers. |
+| **Back Sides** | **Support / DPS** | Marshall, Morrison, Mason | Supports and up-and-coming damage dealers. |
 
 ---
 
 :::tip The Level 20 Checkpoint
-Level up gear one item at a time to **Level 20**. You get huge side effects (mastery bonuses) at this specific level. 
+Level up gear one item at a time to **Level 20**. You get huge side effects (mastery bonuses) at this specific level. Check out "The Forge" for more info.
 :::
 
 ---
@@ -46,17 +46,24 @@ Heroes perform better with their friends. Mixing types haphazardly drags the tea
 
 ---
 
-## 4. Decorations (Stat Sticks)
-If you look good, you fight good. Decorations are not just vanity; they are percentage-based stat multipliers.
+## 4. Counter Tactics
 
-### The Upgrade Path
-Prioritize upgrading UR decorations to **Level 3** to unlock secondary effects. 
+There's an important mechanic in this game. It's called rock-paper-scissors. 
 
-**Priority Order:**
-1.  **% Damage Reduction** (S-Tier)
-2.  **% Skill / Crit Damage** (A-Tier)
-3.  **% Attack / Defense / HP** (B-Tier) 
+Heroes of one class counter another class. In the early game, this is a minor consideration, as all of your resources should be focused on one squad. 
 
-:::danger Resource Discipline
-**Never** use decoration components on non-UR decorations. You get the lower-tier ones for free. Save your components for the gear that matters. 
+As you progress further, it becomes advantageous to use this mechanic to your advantage. 
+
+| Class | Strong Against | Weak Against |
+| :--- | :--- | :--- |
+| **Tank** | **Missile** | **Aircraft**|
+| **Aircraft** | **Tank** | **Missile** |
+| **Missile** | **Aircraft** | **Tank** |
+
+The impact of these class match-ups is huge. 
+
+:::danger  Win the rock-paper-scissors game
+If your squad counters the opponent squad, then they receive **20% less damage**. 
 :::
+
+This is enough to swing a battle in your favor when you're otherwise much weaker than the opponent.

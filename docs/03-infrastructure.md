@@ -1,5 +1,6 @@
 ---
-sidebar_position: 2
+slug: /infrastructure
+sidebar_position: 3
 title: Infrastructure (Buildings)
 ---
 
@@ -60,13 +61,42 @@ To execute this, you need a specific spread of Barracks levels to handle the dif
 4.  **Barracks 4:** Level 17 (Baby Troop Training)
 
 ### The Protocol
-* **Train Low (Mon-Thurs):** Train T5 troops in your lower-level barracks. Fill your Drill Grounds with these "Baby Troops." 
+* **Train Low (Mon-Thurs):** Train T5 troops in all of your barracks. Fill your Drill Grounds with these "Baby Troops." 
 * **Promote High (Friday - VS Duel):** On Friday, use your higher-level barracks to promote them step-by-step.
 
 :::danger STRICT DOCTRINE
-**NEVER use the "Max Promote" feature to skip tiers.**
-Even if your barracks allows you to go from T5 straight to T8, **DO NOT DO IT.** You must click "Promote" to the very next level only. We do not leave free points on the table.
+**NEVER promote beyong the next step**
+Even if your barracks allows you to go from T5 straight to T8, **DO NOT DO IT.** You must be strategic about this.
 :::
+
+### Example: Drill grounds at start of Total Mobilization Day
+
+T5: 20,000 
+
+T9: 3,000
+
+Max barracks level = 27
+
+:::danger If all barracks are "open for business" when you promote, it will automatically promote your T5's to T9.
+:::
+
+Barracks 27, 24, 20, 17 have all finished training T5 troops. You have **NOT** yet sent those troops to the drill ground. 
+
+**Step 1**: Send troops from Barracks 20 to drill ground. This barracks is now open for business. 
+
+**Step 2**: Tap on the drill ground. Select your T5s to promote. They will start promoting in your level 20 barracks to T6. 
+
+**Step 3**: Speed it up to get the ball moving. 
+
+**Step 4**: Send the T6s to the drill ground. 
+
+**Step 5**: Send troops from Barracks 24 to drill ground. 
+
+**Step 6**: Tap on the drill ground, promote your T6's. **THEN** select T5's to promote.They will promote to T7, and T6 respectively. 
+
+**Step 7**: Speed both of them up again.
+
+**Step 8**: Repeat until you have troops of every available tier training. 
 
 ---
 
@@ -115,10 +145,25 @@ We prioritize function over vanity. Do not waste speed-ups on D-Tier buildings.
 For Iron, Food, and Coin production tiles (Mines/Farms):
 
 * **The Rule:** Upgrade them to Level 20 and **STOP**. 
-* **The Math:** Beyond Level 20, the cost to upgrade becomes astronomical. It takes years to earn back the resources you spent on the upgrade itself. 
+* **The Math:** Beyond Level 20, the cost to upgrade becomes astronomical. It takes months to earn back the resources you spent on the upgrade itself. This is because each upgrade only gives a flat **720** bonus. This gets multiplied by research and survivors, but not enough to justify millions of cost.
 
 ### The Opportunity Cost
-Every million food you spend upgrading a Level 25 Farm is a million food you didn't spend on research or troop training.
+Every million food you spend upgrading a Level 25 Farm is a million food you didn't spend on research or building something more useful.
 
 * **Result:** You are permanently weaker today for a payoff that might arrive in 2027.
-* **Doctrine:** Be weaker tomorrow? No. We are lethal today. Stop at 20.
+* **Doctrine:** Be stronger next year? No. We are lethal today. Stop at 20.
+
+## 4. Decorations (Stat Sticks)
+If you look good, you fight good. Decorations are not just vanity; they are percentage-based stat multipliers.
+
+### The Upgrade Path
+Prioritize upgrading UR decorations to **Level 3** to unlock secondary effects. 
+
+**Priority Order:**
+1.  **% Damage Reduction** (S-Tier)
+2.  **% Skill / Crit Damage** (A-Tier)
+3.  **% Attack / Defense / HP** (B-Tier) 
+
+:::danger Resource Discipline
+**Never** use decoration components on non-UR decorations. You get the lower-tier ones for free. Save your components for the gear that matters. 
+:::

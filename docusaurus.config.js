@@ -86,7 +86,7 @@ const config = {
             title: 'Intel',
             items: [
               // Updated to likely match your actual file names
-              { label: 'The Codex', to: '/docs/manifesto' }, 
+              { label: 'The Codex', to: '/docs' }, 
               { label: 'Hall of Valor', to: '/valor' },
               { label: 'Chain of Command', to: '/command' },
             ],

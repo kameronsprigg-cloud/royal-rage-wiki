@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 7
 title: Research Doctrine (Tech Tree)
 ---
 
@@ -12,7 +12,7 @@ title: Research Doctrine (Tech Tree)
 Before you look at combat stats, you must secure your income. The primary source of Valor Badges in this game is the VS Duel Chests.
 
 ### Phase 1: Unlock the Boxes
-Your #1 goal on a new account is to unlock the "Inter-Server Duel" tech tree.
+Your #1 goal on a new account is to unlock the "Alliance Duel" tech tree.
 
 * **Target:** Research deep enough to unlock the **9th chest reward**.
 * **Why:** 9 Chests = Maximum Valor Badges daily.

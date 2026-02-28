@@ -1,6 +1,9 @@
 ---
-sidebar_position: 3
+
+slug: /protocols
+sidebar_position: 4
 title: Operating Protocols (Puffs & Conduct)
+
 ---
 
 # Operating Protocols
